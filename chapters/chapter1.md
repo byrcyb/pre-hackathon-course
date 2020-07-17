@@ -1,61 +1,122 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'Chapter 1: Before we start, assess yourself!'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+'This chapter will help you evaluate your skills with Python and Data Science before you take part in a Callysto hackathon.'
 prev: null
 next: /chapter2
 type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Introduction" type="slides">
+<exercise id="1" title="How's Your Python">
 
-<slides source="chapter1_01_introduction">
-</slides>
+# Levels of Python Comfort
+
+This is a self-assessment tool, which of the following code snippets do you think you could have written?
+
+0. I have never seen any Python before.
+
+1. Basics
+```python
+print('Hello World')
+```
+
+2. Variables
+```python
+phrase = 'Hello World'
+print(phrase)
+```
+
+3. Loops
+```python
+for x in range(5):
+    print(x + 2)
+```
+
+4. Conditions
+```python
+for x in range(5):
+    print(x)
+    if x == 2:
+        print('This is two')
+```
+
+5. Functions
+```python
+def multiply_by_three(x):
+    y = x * 3
+    return y
+multiply_by_three(9)
+```
+
+6. Dictionaries
+```python
+mars_missions_2011 = {'Fobos-Grunt':'Roskosmos', 
+                      'Yinghuo-1':'CNSA', 
+                      'Curiosity':'NASA'}
+for mission, agency in mars_missions_2011.items():
+    print('The',mission,'mission was led by',agency)
+```
+
+If you self-assessed at `4` or less consider taking the beginner track challenges during the hackathon.
+
+If you self-assessed at  `5` or higher consider taking the intermediate / advanced track challenges during the hackathon.
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="2" title="How's Your Data Science">
 
-Let's ask some questions about the slides. Whats the correct answer?
+# Levels of Data Science Comfort
 
-<choice>
-<opt text="Answer one">
+This is a self-assessment tool, which of the following code snippets do you think you could have written?
 
-This is not the correct answer.
+0. I have never seen any of this before.
 
-</opt>
+1. Creating a Data Frame
+```python
+import pandas as pd
+df = pd.read_html('https://en.wikipedia.org/wiki/List_of_missions_to_Mars')[0]
+```
 
-<opt text="Answer two" correct="true">
+2. Basic Statistics
+```python
+df.describe()
+df['Column 1'].mean()
+```
 
-Good job!
+2. Filtering Data
+```python
+df[df['Column 1']=='green']
+```
 
-</opt>
+3. Cleaning Data
+```python
+df['Year'] = df['Launch Date'].str.split(' ', expand=True)[2]
+df.fillna(value=0, inplace=True)
+```
 
-<opt text="Answer three">
+4. More Statistics
+```python
+df.groupby(by='Year')['Year'].count()
+df.agg(['min', 'max'])
+```
 
-This is not correct either.
+5. Merging Data
+```python
+df.append(df2, ignore_index=True)
+new_df = pd.concat([df, df2], axis=1)
+```
 
-</opt>
-</choice>
+6. Plotting
+```python
+import cufflinks as cf
+cf.go_offline()
+df.iplot(kind='barh', x='Column 1', y='Column 2', xTitle='Time', yTitle='Frequency', title='Frequency over Time')
+```
 
-</exercise>
+If you self-assessed at `0` consider taking the beginner track challenges during the hackathon.
 
-<exercise id="3" title="First steps">
+If you self-assessed at  `1` or higher consider taking the intermediate / advanced track challenges during the hackathon.
 
-This is a code exercise. The content can be formatted in simple Markdown – so
-you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
-the one for the instructions below.
-
-- These are instructions and they can have bullet points.
-- The code block below will look for the files `exc_01_03`, `solution_01_03` and
-  `test_01_03` in `/exercises`.
-
-<codeblock id="01_03">
-
-This is a hint.
-
-</codeblock>
 
 </exercise>
