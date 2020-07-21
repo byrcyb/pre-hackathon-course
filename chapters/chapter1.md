@@ -58,9 +58,9 @@ for mission, agency in mars_missions_2011.items():
     print('The',mission,'mission was led by',agency)
 ```
 
-If you self-assessed at `5` or less consider taking the beginner track challenges during the hackathon.
+If you self-assessed at `5` or less consider taking the Curiosity (beginner) track challenges during the hackathon.
 
-If you self-assessed at  `6` or higher consider taking the intermediate / advanced track challenges during the hackathon.
+If you self-assessed at  `6` or higher consider taking the Amal (advanced) track challenges during the hackathon.
 
 </exercise>
 
@@ -114,17 +114,17 @@ cf.go_offline()
 df.iplot(kind='barh', x='Column 1', y='Column 2', xTitle='Time', yTitle='Frequency', title='Frequency over Time')
 ```
 
-If you self-assessed at `1` consider taking the beginner track challenges during the hackathon.
+If you self-assessed at `1` consider taking the Curiosity (beginner) track challenges during the hackathon.
 
-If you self-assessed at  `2` or higher consider taking the intermediate / advanced track challenges during the hackathon.
+If you self-assessed at  `2` or higher consider taking the Amal (advanced) track challenges during the hackathon.
 
 
 </exercise>
 
 <exercise id="3" title="Next Steps">
 
-On the day of the hackathon, you'll need to choose either the beginner or advanced track of challenges. Keep in mind the results of your Python and Data Science self-assessments you just did to help inform your decision.
+On the day of the hackathon, you'll need to choose either the Curiosity (beginner) or Amal (advanced) track of challenges. Keep in mind the results of your Python and Data Science self-assessments you just did to help inform your decision.
 
-In Chapter 2 of our pre-hackathon content, we'll walk you through a hypothetical everyday scenario that involves applying data science. You will also get introduced to some of the data science tools you'll be using in the hackathon.
+In Chapter 2 of our pre-hackathon content, we'll walk you through an imaginary everyday scenario that involves applying data science. Along the way, you'll get introduced to some of the data science tools and concepts you'll be using during hackathon.
 
 </exercise>

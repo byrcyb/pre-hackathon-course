@@ -16,7 +16,9 @@ We need your help to settle an argument. One of the Grade 3 teachers insists tha
 
 Can you use data science to solve this argument?
 
-<img src="Callysto-profile.png" alt="This image is in /static" width="25%">
+<img src="unsplash.jpg" alt="This image is in /static" width="50%">
+
+Photo by [Mark Koch](https://unsplash.com/@markk92).
 
 Notes: Remember, this is a hypothetical scenario :)
 
