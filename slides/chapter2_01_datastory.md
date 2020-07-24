@@ -2,9 +2,9 @@
 type: slides
 ---
 
-# Let's Start our Data Science Story
+# Using Data Science to Settle an Argument
 
-Notes: Hi! Follow along in our hypothetical data science story to get a better understanding of how you can use open data and data science in your everyday.
+Notes: Hi! Follow along in our hypothetical data science example to get a better understanding of how you can use open data and data science in your everyday.
 
 ---
 
@@ -34,4 +34,4 @@ We can use an online data science platform called Jupyter notebooks to run code,
 
 ---
 
-# Let's practice!
+# Let's Data Science!

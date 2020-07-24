@@ -1,14 +1,14 @@
 ---
-title: '2. Pre-Hackathon: A Data Science Story'
+title: '2. Pre-Hackathon: What is Data Science?'
 description:
-  'This chapter will tell you a story about how we can use data science and help you learn some new skills.'
+  'The role of data science is to summarize raw data into key points of information. This helps us to understand the elements that are most relevant to our needs and to make decisions based on those elements, rather than trying to absorb and use a mass of raw data, which would be overwhelming.'
 prev: /chapter1
 next: /chapter3
 type: chapter
 id: 2
 ---
 
-<exercise id="1" title="Where It Begins" type="slides">
+<exercise id="1" title="A Data Science Example" type="slides">
 
 <slides source="chapter2_01_datastory">
 </slides>
@@ -23,9 +23,11 @@ Below is the code to get weather data from Edmonton from 1901 to 2016. The latit
 
 </codeblock>
 
-Hint: Press the `Run Code` button. Be patient, once it loads you should see a data table that is `[1392 rows x 5 columns]` in size.
+**Hint**: Press the `Run Code` button. Be patient, once it loads you should see a data table that is `[1392 rows x 5 columns]` in size.
 
-Hint: want to learn more about [variables](https://www.tutorialspoint.com/python/python_variable_types.htm)?
+**Hint**: want to learn more about how libraries make programming easier by importing code other people have written, check out [About Python](https://www.python.org/about).
+
+**Hint**: want to learn more about [variables](https://www.tutorialspoint.com/python/python_variable_types.htm)?
 
 </exercise>
 
@@ -39,9 +41,9 @@ Can we solve the argument now?
 
 </codeblock>
 
-Hint: Press the `Run Code` button.
+**Hint**: Press the `Run Code` button.
 
-**Challenge**: Try modifying the code to the City of Toronto by changing the values for latitute and longitude to **43.651890** and **-79.381706** and running the code again. Who wins?
+*Challenge*: Try modifying the code to the City of Toronto by changing the values for latitute and longitude to **43.651890** and **-79.381706** and running the code again. Who wins?
 
 </exercise>
 
@@ -49,15 +51,15 @@ Hint: Press the `Run Code` button.
 
 Ok we've settled the argument, right? Uhmmm temperature is one thing but what about the rain? 
 
-Good point, we should probably look at precipitation using the following code.
+Good point, we should probably look at precipitation using the following code. Does this additional information impact who the winner of the argument is?
 
 <codeblock id="02_03">
 
 </codeblock>
 
-Hint: Press the `Run Code` button.
+**Hint**: Press the `Run Code` button.
 
-**Challenge**: Try modifying the code to the City of Toronto by changing the values for latitute and longitude to **43.651890** and **-79.381706** and running the code again. Who wins?
+*Challenge*: Try modifying the code to the City of Toronto by changing the values for latitute and longitude to **43.651890** and **-79.381706** and running the code again. Who wins?
 
 </exercise>
 
@@ -67,11 +69,11 @@ Congratulations, next step Hackathon!
 
 If you haven't already, make sure you've completed the following before the Hackathon launch event:
 
-[__] Python assessment (Chapter 1)
+ - [ ] Python assessment (Chapter 1)
 
-[__] Data science assessment (Chapter 1)
+- [ ] Data science assessment (Chapter 1)
 
-[__] Data science story (Chapter 2)
+- [ ] Data Science Example (Chapter 2)
 
 
 
