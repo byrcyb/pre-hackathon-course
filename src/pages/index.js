@@ -22,7 +22,7 @@ export default ({ data }) => {
                 <h1 className={classes.subtitle}> ARE YOU READY TO HACK? </h1>
                 <div className={classes.introduction}>
                 <p>
-                Thanks for joining us Grades 9-12 Canadian students and teachers! This mini-course will help you prepare for the upcoming Callysto hackathon. It's as easy as 1-2-3 <span role="img" aria-label="rocket">🚀</span>   
+                Thanks for joining us Grades 9-12 Canadian students and teachers! This mini-course will help you prepare for the upcoming Callysto hackathon. It's as easy as 3-2-1 <span role="img" aria-label="rocket">🚀</span>   
                 </p>
                 </div>
             </section>

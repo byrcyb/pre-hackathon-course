@@ -1,7 +1,7 @@
 ---
-title: '4. Hackathon Day'
+title: '4. Hackathon Day (COMING SOON)'
 description:
-  'This chapter will provide you with all the information you need to know to participate in a Callysto hackathon.'
+  'This section will provide you with all the information you need to know to participate in a Callysto hackathon.'
 prev: /chapter3
 next: /chapter1
 type: chapter
@@ -14,9 +14,9 @@ Start here as these tutorials will provide you with the foundational programming
 
 Clicking the following links will launch you into our CallystoHub service that requires a Gmail or Outlook account to login. You may have a Google (Gmail) or Microsoft (Live) account through your school. If not, you can create one for free at [Google SignUp](https://accounts.google.com/SignUp) or [Microsoft Signup](https://signup.live.com/).
 
-1. Intro to Python and Data Frames (ADD HYPERLINK)
-2. (Optional) Intro to Data Visualization (ADD HYPERLINK)
-3. (Optional) Intro to Python Data Structures (ADD HYPERLINK)
+1. (Everyone) [Intro to Python and Data Frames](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/python-and-pandas-basics-solutions.ipynb&depth=1).
+2. (Advanced) Intro to Data Visualization: [Cufflinks](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/cufflinks-basics.ipynb&depth=1).
+3. (Advanced) [Intro to Python Data Structures](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/data-structures-in-python.ipynb&depth=1).
 
 
 
@@ -24,47 +24,32 @@ Clicking the following links will launch you into our CallystoHub service that r
 
 <exercise id="2" title="Hackathon Challenge: Curiosity (Beginner)">
 
-Remember those assessment exercises you did before the Hackathon on Python and Data Science? If you assessed as a Curiosity (Beginner) track participant, then start here.
+Remember those assessment exercises you did before the hackathon on Python and Data Science? If you assessed as a Curiosity (Beginner) track participant, then click on the link below to access your challenge.
 
-# LISA's WALK-THROUGH NOTEBOOKS
+Instructions:
+
+1. Click on your challenge template: [Curiosity Guided Notebook](https://github.com/callysto/hackathon/blob/sustainable-society/SustainabilityOnMars/GuidedNotebooks/pets-in-space/pets-in-space.ipynb)
+2. Carefully read and follow the instructions in the notebook.
+3. Submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](http://0.0.0.0:8000/chapter3) for details on submitting.
 
 </exercise>
 
 <exercise id="3" title="Hackathon Challenge: Amal (Advanced)">
 
-Remember those assessment exercises you did before the Hackathon on Python and Data Science? If you assessed as an Amal (Advanced) track participant, then start here.
+Remember those assessment exercises you did before the hackathon on Python and Data Science? If you assessed as an Amal (Advanced) track participant, then click on the link below to access your challenge template. 
 
-# ALYAA's TEMPLATE NOTEBOOK
+Instructions:
 
-</exercise>
-
-<exercise id="4" title="Sample Submission for Amal (Advanced) Challenge">
-
-If you are an Amal (Advanced) track participant, then you might wonder what your final hackathon submission should look like. Here are some samples to help you better understand what we are looking for.
-
-# ALYAA's MUSIC NOTEBOOK
-
-# ALYAA's PLASTICS NOTEBOOK
+1. Click on your challenge **[TEMPLATE]()**. 
+2. Carefully read the instructions, and modify the text and code in this notebook to answer questions on how humans can sustainably build a new home on Mars. Feel free to come up with answers to your own questions!
+3. To find and access open data sources for your submission, try these tutorials and accompanying videos. 
+4. Submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](http://0.0.0.0:8000/chapter3) for details on submitting.
+5. Have a look at this **[EXAMPLE HACKATHON SUBMISSION]()** to get an idea of what your final hackathon submission should look like.
+ 
 
 
 </exercise>
 
-<exercise id="5" title="Hackathon Submission Evaluation Rubric">
-
-Your hackathon submission will be evaluated using the following rubric by our expert panel of judges. Top submissions will be awarded prizes, which will be announced by email on August 12, 2020. 
-
-### Evaluation Criteria
-
-...
-
-
-</exercise>
-
-<exercise id="6" title="Submitting your Hackathon Challenge">
-
-The deadline for hackathon challenge submissions is **August 10, 2020, at 2pm MDT**. Instructions for submission are below. Submissions received after the deadline will not be considered for prizes.
-
-</exercise>
 
 
 

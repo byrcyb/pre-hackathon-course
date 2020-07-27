@@ -1,7 +1,7 @@
 ---
 title: '1. Pre-Hackathon: Before we start, assess yourself!'
 description:
-    'This chapter will help you evaluate your skills with Python and Data Science before you take part in a Callysto hackathon.'
+    'This section will help you evaluate your skills with Python and Data Science before you take part in a Callysto hackathon.'
 prev: null
 next: /chapter2
 type: chapter
@@ -58,9 +58,9 @@ for mission, agency in mars_missions_2011.items():
     print('The',mission,'mission was led by',agency)
 ```
 
-If you self-assessed at `5` or less consider taking the Curiosity (beginner) track challenges during the hackathon.
+If you self-assessed at `5` or less consider taking the Curiosity (beginner) track challenges during the hackathon. Why [Curiosity](https://en.wikipedia.org/wiki/Curiosity_(rover))?
 
-If you self-assessed at  `6` or higher consider taking the Amal (advanced) track challenges during the hackathon.
+If you self-assessed at  `6` or higher consider taking the Amal (advanced) track challenges during the hackathon. Why [Amal](https://en.wikipedia.org/wiki/Emirates_Mars_Mission)?
 
 </exercise>
 
@@ -114,9 +114,9 @@ cf.go_offline()
 df.iplot(kind='barh', x='Column 1', y='Column 2', xTitle='Time', yTitle='Frequency', title='Frequency over Time')
 ```
 
-If you self-assessed at `1` consider taking the Curiosity (beginner) track challenges during the hackathon.
+If you self-assessed at `1` consider taking the Curiosity (beginner) track challenges during the hackathon. Why [Curiosity](https://en.wikipedia.org/wiki/Curiosity_(rover))?
 
-If you self-assessed at  `2` or higher consider taking the Amal (advanced) track challenges during the hackathon.
+If you self-assessed at  `2` or higher consider taking the Amal (advanced) track challenges during the hackathon. Why [Amal](https://en.wikipedia.org/wiki/Emirates_Mars_Mission)?
 
 
 </exercise>

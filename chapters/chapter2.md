@@ -69,13 +69,11 @@ Congratulations, next step Hackathon!
 
 If you haven't already, make sure you've completed the following before the Hackathon launch event:
 
- - [ ] Python assessment (Chapter 1)
+ - [ ] Python assessment (Chapter 1).
 
-- [ ] Data science assessment (Chapter 1)
+- [ ] Data science assessment (Chapter 1).
 
-- [ ] Data Science Example (Chapter 2)
-
-
+- [ ] What is data science example (Chapter 2).
 
 
 
