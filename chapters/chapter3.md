@@ -50,15 +50,15 @@ Your hackathon submission will be evaluated using the following rubric by our ex
 
 For all hackathon related inquiries (technical or non-technical) and to book a virtual office hour appointment with one of our instructors, please fill out this form. (ADD HYPERLINK)
 
-You can also drop in virtually to one of our open office hours for support. 
+You can also drop in virtually to one of our open office hours for support during specified times (see below). 
 
-OFFICE HOURS
-```
-Thursday August 6, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT 
-Thursday VIRTUAL OFFICE HOUR ([link](https://us02web.zoom.us/j/84485917001)): 12:00pm - 1:00pm MDT
+### OFFICE HOURS  
 
-Friday August 7, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT 
-Friday VIRTUAL OFFICE HOUR ([link](https://us02web.zoom.us/j/89494533625)): 12:00pm - 1:00pm MDT
+Thursday August 6, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT  
+Thursday [VIRTUAL OFFICE HOUR]((https://us02web.zoom.us/j/84485917001)) 12:00pm - 1:00pm MDT
+
+Friday August 7, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT  
+Friday [VIRTUAL OFFICE HOUR](https://us02web.zoom.us/j/89494533625) 12:00pm - 1:00pm MDT
 
 Monday August 10, 2020, 9:00am-12:00pm MDT
-```
+
